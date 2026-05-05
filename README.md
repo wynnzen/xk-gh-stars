@@ -1,0 +1,1014 @@
+# GitHub Starred Repos 分类整理
+
+**总计**: 955 个项目
+
+## 🔤 编程语言分布 (Top 20)
+- **JavaScript**: 337 个
+- **TypeScript**: 177 个
+- **Python**: 110 个
+- **Unknown/Doc**: 90 个
+- **HTML**: 25 个
+- **CSS**: 24 个
+- **Go**: 21 个
+- **Rust**: 17 个
+- **C++**: 16 个
+- **Shell**: 16 个
+- **Jupyter Notebook**: 13 个
+- **Vim Script**: 12 个
+- **Vue**: 12 个
+- **PHP**: 8 个
+- **Java**: 7 个
+- **C**: 7 个
+- **SCSS**: 6 个
+- **Vim script**: 6 个
+- **MDX**: 5 个
+- **Lua**: 4 个
+
+## 📂 按主题分类
+
+### 🎨 前端 & UI (276个)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) ⭐113,597 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ⭐20,758 | Rust | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) ⭐6,092 | TypeScript | Shadcn table with server-side sorting, filtering, and pagination.
+- [sadmann7/diceui](https://github.com/sadmann7/diceui) ⭐1,964 | TypeScript | Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
+- [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui) ⭐690 | N/A | A curated list of awesome things related to shadcn/ui.
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) ⭐16,702 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) ⭐2,171 | TypeScript | Motion for Vue
+- [leixq1024/sd-tourism-dashboard-open](https://github.com/leixq1024/sd-tourism-dashboard-open) ⭐290 | TypeScript | 一个开源的vue3大屏项目,欢迎start!
+- [outline/outline](https://github.com/outline/outline) ⭐38,395 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [chrismwilliams/astro-theme-cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐1,613 | Astro | A simple Astro theme. Use it to create your blog or website.
+- [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) ⭐6,020 | JavaScript | Simple flow library 🖥️🖱️
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐7,075 | TypeScript | A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
+- [vercel/react-transition-progress](https://github.com/vercel/react-transition-progress) ⭐327 | TypeScript | Show a progress bar while React Transitions run
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐38,845 | JavaScript | An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) ⭐18,485 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings.
+- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) ⭐3,510 | TypeScript | 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
+- [chenglou/react-motion](https://github.com/chenglou/react-motion) ⭐21,923 | JavaScript | A spring that solves your animation problems.
+- [koreader/koreader](https://github.com/koreader/koreader) ⭐26,614 | Lua | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [louislam/dockge](https://github.com/louislam/dockge) ⭐23,077 | TypeScript | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) ⭐6,366 | TypeScript | Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐82,455 | N/A | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐95,713 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) ⭐11,942 | TypeScript | Admin Dashboard UI built with Shadcn and Vite.
+- [TanStack/form](https://github.com/TanStack/form) ⭐6,506 | TypeScript | 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) ⭐42,350 | TypeScript | Scheduling infrastructure for absolutely everyone.
+- [glanceapp/glance](https://github.com/glanceapp/glance) ⭐33,972 | Go | A self-hosted dashboard that puts all your feeds in one place
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) ⭐6,799 | Python | Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. 
+- [algolia/docsearch](https://github.com/algolia/docsearch) ⭐4,354 | TypeScript | :blue_book: The easiest way to add search to your documentation.
+- [usememos/memos](https://github.com/usememos/memos) ⭐59,372 | Go | Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [danvk/dygraphs](https://github.com/danvk/dygraphs) ⭐3,233 | JavaScript | Interactive visualizations of time series using JavaScript and the HTML canvas tag
+- [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐15,098 | JavaScript | 📊 Interactive JavaScript Charts built on SVG
+- [efeiefei/node-file-manager](https://github.com/efeiefei/node-file-manager) ⭐311 | JavaScript | File manager web server based on Node.js with Koa, Angular.js and Bootstrap
+- [sclausen/ngx-mqtt](https://github.com/sclausen/ngx-mqtt) ⭐187 | TypeScript | This library isn't just a wrapper around MQTT.js for angular. It uses observables and takes care of subscription handling and message routing.
+- [zxing-js/ngx-scanner](https://github.com/zxing-js/ngx-scanner) ⭐665 | TypeScript | Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
+- [gs-shop/vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) ⭐824 | Vue | 🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay
+- [typicode/json-server](https://github.com/typicode/json-server) ⭐75,540 | JavaScript | Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) ⭐3,473 | TypeScript | :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架 
+- [yygmind/blog](https://github.com/yygmind/blog) ⭐10,625 | N/A | 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+- [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) ⭐1,726 | Python | 超赞列表合集
+- [sivan/heti](https://github.com/sivan/heti) ⭐6,687 | SCSS | 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) ⭐8,965 | JavaScript | Beautifier for javascript 
+- [akxcv/vuera](https://github.com/akxcv/vuera) ⭐4,296 | JavaScript | :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
+- [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) ⭐3,800 | HTML | 开源、免费、专业、简单的 React.js 在线教程
+- [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) ⭐530 | Python | At-a-glance dashboard for Raspberry Pi with a Waveshare ePaper 7.5 Inch HAT. Date/Time, Weather, Alerts, Google/Outlook Calendar
+- [necolas/normalize.css](https://github.com/necolas/normalize.css) ⭐53,540 | CSS | A modern alternative to CSS resets
+- [greenpress/vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) ⭐287 | TypeScript | A util package to use Vuex with Composition API easily.
+- [betterRunner/context-note](https://github.com/betterRunner/context-note) ⭐719 | Vue | A note-taking chrome extension: taking notes on the web with their context.
+- [vuejs/core](https://github.com/vuejs/core) ⭐53,603 | TypeScript | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) ⭐5,595 | TypeScript | A comprehensive React UI components library based on Arco Design
+- [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) ⭐5,576 | Vue | A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
+- [Yuliang-Lee/vue2-smooth-scroll](https://github.com/Yuliang-Lee/vue2-smooth-scroll) ⭐121 | JavaScript | :surfer:Simple vue smooth scroll
+- [alibaba/x-render](https://github.com/alibaba/x-render) ⭐7,837 | TypeScript | 🚴‍♀️ Very easy to use process form table chart solution.
+- [elastic/eui](https://github.com/elastic/eui) ⭐6,297 | TypeScript | Elastic UI Framework 🙌
+- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) ⭐6,086 | JavaScript | 🎉 Generate CSS for your Neumorphism designs
+- [vuejs/vue-cli](https://github.com/vuejs/vue-cli) ⭐29,592 | JavaScript | 🛠️ webpack-based tooling for Vue.js Development
+- [YvesCoding/vuescroll](https://github.com/YvesCoding/vuescroll) ⭐1,281 | JavaScript | A customizable scrollbar plugin based on vue.js for PC , mobile phone, touch screen, laptop.
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) ⭐17,649 | TypeScript | Vite & Vue powered static site generator.
+- [berwin/Blog](https://github.com/berwin/Blog) ⭐4,167 | JavaScript | 记录成长的过程
+- [vueuse/vue-demi](https://github.com/vueuse/vue-demi) ⭐3,135 | JavaScript | 🎩 Creates Universal Library for Vue 2 & 3
+- [vueuse/vueuse](https://github.com/vueuse/vueuse) ⭐22,220 | TypeScript | Collection of essential Vue Composition Utilities for Vue 3
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) ⭐10,370 | TypeScript | Zero-runtime Stylesheets-in-TypeScript
+- [vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx) ⭐1,787 | TypeScript | JSX for Vue 3
+- [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) ⭐4,275 | TypeScript | 📲 On-demand components auto importing for Vue
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐21,480 | Vue | 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [youzan/vant](https://github.com/youzan/vant) ⭐24,284 | TypeScript | A lightweight, customizable Vue UI library for mobile web apps.
+- [Dafrok/vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) ⭐2,415 | Vue | Baidu Map components for Vue 2.x
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) ⭐17,938 | TypeScript | 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) ⭐31,121 | N/A | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [haixiangyan/overwatch-ui](https://github.com/haixiangyan/overwatch-ui) ⭐450 | Vue | 🎮 A UI library of Overwatch, built with Vue.js
+- [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) ⭐6,559 | N/A | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+- [vuejs/composition-api](https://github.com/vuejs/composition-api) ⭐4,190 | TypeScript | Composition API plugin for Vue 2
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) ⭐10,686 | TypeScript | Vue.js component for Apache ECharts™.
+- [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) ⭐50,702 | TypeScript | 一个基于 Electron 的音乐软件
+- [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map) ⭐242 | TypeScript | 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。
+- [uiwjs/react-amap](https://github.com/uiwjs/react-amap) ⭐500 | TypeScript | 基于 React 封装的高德地图组件，帮助你轻松的接入地图到 React 项目中。
+- [evanw/esbuild](https://github.com/evanw/esbuild) ⭐39,875 | Go | An extremely fast bundler for the web
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) ⭐7,311 | TypeScript | 🐒 Normalize browsers' default style
+- [QingWei-Li/vuep](https://github.com/QingWei-Li/vuep) ⭐879 | JavaScript | 🎡 A component for rendering Vue components with live editor and preview.
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) ⭐10,930 | TypeScript | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+- [QingWei-Li/vuep.run](https://github.com/QingWei-Li/vuep.run) ⭐139 | Vue | 🏃 An online playground for Vue2.0
+- [react-component/util](https://github.com/react-component/util) ⭐670 | TypeScript | Common Utils For React Component
+- [ncform/ncform](https://github.com/ncform/ncform) ⭐1,195 | JavaScript | 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) ⭐18,279 | TypeScript | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+- [xaboy/form-create](https://github.com/xaboy/form-create) ⭐7,003 | JavaScript | :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) ⭐97,924 | TypeScript | An enterprise-class UI design language and React UI library
+- [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) ⭐5,140 | TypeScript | 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) ⭐5,301 | JavaScript | 【免费社区版】【企业版】Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) ⭐21,876 | JavaScript | JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) ⭐8,563 | TypeScript | vxe table 支持 vue2, vue3 的表格解决方案
+- [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐4,991 | JavaScript | 微信小程序图表库，Charts for WeChat Mini Program
+- [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) ⭐7,499 | JavaScript | 基于 Apache ECharts 的微信小程序图表库
+- [postcss/autoprefixer](https://github.com/postcss/autoprefixer) ⭐22,253 | JavaScript |  Parse CSS and add vendor prefixes to rules by Can I Use
+- [angular/angular](https://github.com/angular/angular) ⭐100,044 | TypeScript | Deliver web apps with confidence 🚀
+- [una/CSSgram](https://github.com/una/CSSgram) ⭐5,394 | HTML | CSS library for Instagram filters
+- [picturepan2/devices.css](https://github.com/picturepan2/devices.css) ⭐2,410 | SCSS | Devices.css - Modern devices crafted in pure CSS
+- [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) ⭐4,016 | CSS | Instagram.css - Complete set of Instagram filters in pure CSS
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐27,389 | Python | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [phodal/fde](https://github.com/phodal/fde) ⭐192 | N/A | 前端体系规划指南。Architecture of Frontend Development Efficiency
+- [fullstackreact/30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐2,242 | JavaScript | 30 Days of React Content and Source Code
+- [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) ⭐27,453 | JavaScript | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [Dogfalo/materialize](https://github.com/Dogfalo/materialize) ⭐38,883 | JavaScript | Materialize, a CSS Framework based on Material Design
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) ⭐47,036 | JavaScript | Cheatsheets for experienced React developers getting started with TypeScript
+- [doczjs/docz](https://github.com/doczjs/docz) ⭐23,613 | TypeScript | ✍ It has never been so easy to document your things!
+- [wagerfield/parallax](https://github.com/wagerfield/parallax) ⭐16,594 | JavaScript | Parallax Engine that reacts to the orientation of a smart device
+- [egoist/import-http](https://github.com/egoist/import-http) ⭐1,234 | JavaScript | Import modules from URL instead of local node_modules
+- [docschina/webpack.js.org](https://github.com/docschina/webpack.js.org) ⭐558 | MDX | [印记中文](https://docschina.org/) - webpack 中文文档
+- [devhubapp/devhub](https://github.com/devhubapp/devhub) ⭐10,085 | TypeScript | TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+- [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) ⭐10,870 | CSS | CSS Inspiration，在这里找到写 CSS 的灵感！
+- [yued-fe/lulu](https://github.com/yued-fe/lulu) ⭐2,814 | JavaScript | 跨端跨框架的原生 UI 组件库，即插即用
+- [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) ⭐5,066 | CSS | Learn how to bring animation to your web projects
+- [lucagez/sky](https://github.com/lucagez/sky) ⭐374 | JavaScript | sky component for React
+- [SZzzzz/react-scripts-ts-antd](https://github.com/SZzzzz/react-scripts-ts-antd) ⭐90 | JavaScript | scripts for create-react-app base on react-scripts-ts
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) ⭐62,847 | CSS | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) ⭐87,814 | TypeScript | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) ⭐8,424 | HTML | JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) ⭐7,639 | JavaScript | Interactive Tables and Data Grids for JavaScript
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) ⭐82,513 | CSS | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) ⭐89,853 | TypeScript | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) ⭐2,159 | JavaScript | 👨‍💻  A component that renders a terminal
+- [frappe/charts](https://github.com/frappe/charts) ⭐15,079 | JavaScript | Simple, responsive, modern SVG Charts with zero dependencies
+- [NervJS/taro](https://github.com/NervJS/taro) ⭐37,447 | TypeScript | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [umpox/TinyEditor](https://github.com/umpox/TinyEditor) ⭐2,369 | HTML | A functional HTML/CSS/JS editor in less than 400 bytes
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) ⭐17,628 | TypeScript | A lightweight Node.js private proxy registry
+- [vuejs/vue](https://github.com/vuejs/vue) ⭐209,765 | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [chvin/react-tetris](https://github.com/chvin/react-tetris) ⭐8,710 | JavaScript | Use React, Redux, Immutable to code Tetris. 🎮
+- [Binaryify/vue-tetris](https://github.com/Binaryify/vue-tetris) ⭐2,765 | JavaScript | Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块 
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐30,030 | N/A | ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) ⭐22,786 | JavaScript | 📝 Minimalistic Vue-powered static site generator
+- [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) ⭐3,050 | JavaScript | Puppeteer example scripts for running Headless Chrome from Node.
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) ⭐43,949 | MDX | Front End interview preparation materials for busy engineers (updated for 2026)
+- [the-road-to-graphql/react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) ⭐1,593 | JavaScript | 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) ⭐16,051 | CSS | Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) ⭐127,694 | JavaScript | Coding articles to level up your development skills
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) ⭐44,029 | JavaScript | The zero configuration build tool for the web. 📦🚀
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) ⭐64,812 | TypeScript | Easy to maintain open source documentation websites.
+- [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) ⭐38,161 | TypeScript | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐72,552 | N/A | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [Strider-CD/strider](https://github.com/Strider-CD/strider) ⭐4,574 | JavaScript | Open Source Continuous Integration & Deployment Server
+- [facebook/react](https://github.com/facebook/react) ⭐244,814 | JavaScript | The library for web and native user interfaces.
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) ⭐40,993 | TypeScript | 🐉 Vue Component Framework
+- [answershuto/learnVue](https://github.com/answershuto/learnVue) ⭐12,681 | JavaScript | :octocat:Vue.js 源码解析
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) ⭐67,808 | JavaScript | JavaScript animation engine
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ⭐174,219 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) ⭐8,992 | JavaScript | A persistent service that generates mock data quickly and provids visualization view.
+- [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) ⭐5,953 | TypeScript | A Headless Chrome rendering solution
+- [marko-js/marko](https://github.com/marko-js/marko) ⭐14,363 | JavaScript | A declarative, HTML-based language that makes building web apps fun
+- [jawil/blog](https://github.com/jawil/blog) ⭐7,840 | JavaScript | Too young, too simple. Sometimes, naive & stupid 🐌
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐94,245 | TypeScript | JavaScript API for Chrome and Firefox
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐36,535 | TypeScript | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [prettier/prettier](https://github.com/prettier/prettier) ⭐51,845 | JavaScript | Prettier is an opinionated code formatter.
+- [schickling/chromeless](https://github.com/schickling/chromeless) ⭐13,229 | TypeScript | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) ⭐38,191 | TypeScript | 🌈 React for interactive command-line apps
+- [geekplux/markvis](https://github.com/geekplux/markvis) ⭐1,588 | JavaScript | make visualization in markdown. 📊📈
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐55,949 | JavaScript | React-based framework with performance, scalability, and security built in.
+- [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐27,074 | JavaScript | React components for efficiently rendering large lists and tabular data
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) ⭐19,716 | TypeScript | The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.
+- [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) ⭐2,268 | N/A | :innocent: 你可能不知道的前端知识点
+- [facebook/react-native](https://github.com/facebook/react-native) ⭐125,740 | C++ | A framework for building native applications using React
+- [Sly777/ran](https://github.com/Sly777/ran) ⭐2,208 | JavaScript | :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
+- [Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) ⭐6,779 | JavaScript | Entire React code base explanation by visual block schemes (Stack version) 
+- [grab/front-end-guide](https://github.com/grab/front-end-guide) ⭐15,245 | JavaScript | 📚 Study guide and introduction to the modern front end stack.
+- [ElemeFE/cooking](https://github.com/ElemeFE/cooking) ⭐1,927 | JavaScript | 👨‍🍳 更易上手的前端构建工具
+- [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) ⭐11,045 | TypeScript | A starter template for TypeScript and React with a detailed README describing how to use the two together.
+- [ecomfe/echarts-gl](https://github.com/ecomfe/echarts-gl) ⭐2,705 | JavaScript | Extension pack for Apache ECharts, providing globe visualization and 3D plots.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) ⭐16,938 | JavaScript | This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) ⭐31,664 | TypeScript | A completely customizable framework for building rich text editors. (Currently in beta.)
+- [vercel/next.js](https://github.com/vercel/next.js) ⭐139,284 | JavaScript | The React Framework
+- [facebook/relay](https://github.com/facebook/relay) ⭐18,937 | Rust | Relay is a JavaScript framework for building data-driven React applications.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐354,220 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [sghall/react-move](https://github.com/sghall/react-move) ⭐6,571 | JavaScript | React Move \| Beautiful, data-driven animations for React
+- [acdlite/recompose](https://github.com/acdlite/recompose) ⭐14,817 | JavaScript | A React utility belt for function components and higher-order components.
+- [palantir/blueprint](https://github.com/palantir/blueprint) ⭐21,695 | TypeScript | A React-based UI toolkit for the web
+- [reactide/reactide](https://github.com/reactide/reactide) ⭐10,532 | JavaScript | Reactide is the first dedicated IDE for React web application development.
+- [egoist/docute](https://github.com/egoist/docute) ⭐3,813 | JavaScript | 📚 Effortless documentation, done right.
+- [react-ga/react-ga](https://github.com/react-ga/react-ga) ⭐5,099 | JavaScript | React Google Analytics Module
+- [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) ⭐3,800 | N/A | [印记中文](https://docschina.org/) - webpack 优秀中文文章
+- [iview/iview](https://github.com/iview/iview) ⭐23,812 | Vue | A high quality UI Toolkit built on Vue.js 2.0
+- [mobxjs/mobx-react-todomvc](https://github.com/mobxjs/mobx-react-todomvc) ⭐499 | JavaScript | TodoMVC reference implementation on top of react-mobx-boilerplate
+- [remix-run/react-router](https://github.com/remix-run/react-router) ⭐56,390 | TypeScript | Declarative routing for React
+- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) ⭐10,524 | JavaScript | Simple React Bootstrap 5 components
+- [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) ⭐20,200 | JavaScript | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+- [unsplash/react-trend](https://github.com/unsplash/react-trend) ⭐2,487 | JavaScript | 📈 Simple, elegant spark lines
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) ⭐10,333 | JavaScript | 💻     Democratizing Snippet Management (macOS/Win/Linux)
+- [BafS/Gutenberg](https://github.com/BafS/Gutenberg) ⭐4,910 | SCSS | Modern framework to print the web correctly.                                               
+- [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) ⭐9,324 | HTML | Grid based on CSS3 flexbox
+- [mui/material-ui](https://github.com/mui/material-ui) ⭐98,283 | JavaScript | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+- [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) ⭐8,623 | JavaScript | A set of React components implementing Google's Material Design specification with the power of CSS Modules
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) ⭐73,147 | N/A | A collection of awesome things regarding React ecosystem
+- [react-component/progress](https://github.com/react-component/progress) ⭐707 | TypeScript | React Progress Bar
+- [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) ⭐1,735 | PHP | :panda_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+- [JingwenTian/awesome-frontend](https://github.com/JingwenTian/awesome-frontend) ⭐1,726 | N/A | A curated list of amazingly awesome frontend libraries, resources and shiny things.
+- [SoAanyip/React-FileUpload](https://github.com/SoAanyip/React-FileUpload) ⭐306 | JavaScript | Upload files async with xhr2 or iframe for IE. Supporting IE8+. React component.
+- [purcell/emacs.d](https://github.com/purcell/emacs.d) ⭐7,059 | Emacs Lisp | An Emacs configuration bundle with batteries included
+- [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) ⭐1,586 | JavaScript | ⚛️ Auto Responsive Layout Library For React
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐15,389 | N/A | Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [mobxjs/mobx](https://github.com/mobxjs/mobx) ⭐28,182 | TypeScript | Simple, scalable state management.
+- [mikecousins/react-pdf-js](https://github.com/mikecousins/react-pdf-js) ⭐804 | TypeScript | A React component to wrap PDF.js
+- [nfl/react-helmet](https://github.com/nfl/react-helmet) ⭐17,480 | JavaScript | A document head manager for React
+- [twobin/react-lazyload](https://github.com/twobin/react-lazyload) ⭐5,905 | JavaScript | Lazy load your component, image or anything matters the performance.
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) ⭐4,511 | TypeScript | Material Design 3(Material You) UI components using Web Components.
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) ⭐31,187 | JavaScript | 🃏 A magical documentation site generator.
+- [material-components/material-components-web](https://github.com/material-components/material-components-web) ⭐17,072 | TypeScript | Modular and customizable Material Design UI components for the web
+- [MicheleBertoli/react-fix-it](https://github.com/MicheleBertoli/react-fix-it) ⭐1,906 | JavaScript | Automagically generate tests from errors
+- [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) ⭐4,968 | TypeScript | ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
+- [vercel/styled-jsx](https://github.com/vercel/styled-jsx) ⭐7,790 | JavaScript | Full CSS support for JSX without compromises
+- [styletron/styletron](https://github.com/styletron/styletron) ⭐3,320 | TypeScript | :zap: Toolkit for component-oriented styling
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) ⭐11,238 | TypeScript | A collection of composable React components for building interactive data visualizations
+- [andywer/webpack-blocks](https://github.com/andywer/webpack-blocks) ⭐2,968 | JavaScript | 📦 Configure webpack using functional feature blocks.
+- [infernojs/inferno](https://github.com/infernojs/inferno) ⭐16,414 | JavaScript | :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+- [dabbott/react-native-express](https://github.com/dabbott/react-native-express) ⭐1,862 | TypeScript | The all-in-one guide to React Native
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) ⭐86,470 | JavaScript | web development for the rest of us
+- [dvajs/dva](https://github.com/dvajs/dva) ⭐16,174 | JavaScript | 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
+- [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐6,476 | JavaScript | A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
+- [pure-css/pure](https://github.com/pure-css/pure) ⭐23,742 | JavaScript | A set of small, responsive CSS modules that you can use in every web project.
+- [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) ⭐2,201 | Vue | A waterfall layout component for Vue.js
+- [react-love/react-latest-framework](https://github.com/react-love/react-latest-framework) ⭐813 | JavaScript | a client framework of React
+- [muicss/mui](https://github.com/muicss/mui) ⭐4,488 | JavaScript | Lightweight CSS framework
+- [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) ⭐6,338 | JavaScript | :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
+- [kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap) ⭐1,295 | JavaScript | An svg calendar heatmap inspired by github's contribution graph
+- [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) ⭐13,222 | JavaScript | The official Semantic-UI-React integration
+- [vercel/hyper](https://github.com/vercel/hyper) ⭐44,562 | TypeScript | A terminal built on web technologies
+- [stylus/stylus](https://github.com/stylus/stylus) ⭐11,324 | JavaScript | Expressive, robust, feature-rich CSS language built for nodejs
+- [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) ⭐9,347 | N/A | We are refactoring it, using the latest Vue and Bulma. WIP
+- [onefinestay/react-daterange-picker](https://github.com/onefinestay/react-daterange-picker) ⭐557 | JavaScript | 无描述
+- [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) ⭐8,366 | TypeScript | A simple and reusable datepicker component for React
+- [jquense/react-widgets](https://github.com/jquense/react-widgets) ⭐2,362 | TypeScript | Polished, feature rich, accessible form inputs built with React
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) ⭐6,783 | TypeScript | DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
+- [casesandberg/react-color](https://github.com/casesandberg/react-color) ⭐12,303 | JavaScript | :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+- [FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations) ⭐3,047 | JavaScript | 🎊 A collection of animations for inline style libraries
+- [d3/d3](https://github.com/d3/d3) ⭐112,837 | Shell | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) ⭐2,319 | CSS | A lightweight, scalable, mobile-first CSS framework
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) ⭐103,401 | JavaScript | Set up a modern web app by running one command.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) ⭐36,239 | N/A | 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
+- [Comcast/react-data-grid](https://github.com/Comcast/react-data-grid) ⭐7,619 | TypeScript | Feature-rich and customizable data grid React component
+- [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) ⭐3,107 | TypeScript | Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
+- [kdchang/reactjs101](https://github.com/kdchang/reactjs101) ⭐4,350 | JavaScript | 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 React.js 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+- [ElemeFE/element](https://github.com/ElemeFE/element) ⭐54,146 | Vue | A Vue.js 2.0 UI Toolkit for Web
+- [google/material-design-lite](https://github.com/google/material-design-lite) ⭐32,172 | HTML | Material Design Components in HTML/CSS/JS
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) ⭐21,329 | HTML | Free Bootstrap 5 Admin Dashboard Template
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ⭐76,546 | JavaScript | The iconic SVG, font, and CSS toolkit
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) ⭐45,375 | CSS | AdminLTE - Free admin dashboard template based on Bootstrap 5
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) ⭐15,538 | TypeScript | A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) ⭐5,325 | JavaScript | Full featured JavaScript image & video gallery. No dependencies
+- [preactjs/preact](https://github.com/preactjs/preact) ⭐38,593 | JavaScript | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [posva/vue-mdc](https://github.com/posva/vue-mdc) ⭐1,184 | JavaScript | Material web components for Vue.js
+- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) ⭐8,687 | JavaScript | gcal/outlook like calendar component
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐444,196 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [JamesTheHacker/Neuron](https://github.com/JamesTheHacker/Neuron) ⭐958 | JavaScript | Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
+- [redfin/react-server](https://github.com/redfin/react-server) ⭐3,874 | JavaScript | :rocket: Blazing fast page load and seamless navigation.
+- [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) ⭐14,000 | JavaScript | A CLI dashboard for webpack dev server
+- [recharts/recharts](https://github.com/recharts/recharts) ⭐27,087 | TypeScript | Redefined chart library built with React and D3
+- [JasonBai007/reactSPA](https://github.com/JasonBai007/reactSPA) ⭐512 | JavaScript | A Demo SPA developed with React, ES6, Webpack (2.x), and Antd (1.0.1) 【move to react-seed】
+- [gollum/gollum](https://github.com/gollum/gollum) ⭐14,269 | Ruby | A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) ⭐23,562 | TypeScript | Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [yuche/vue-strap](https://github.com/yuche/vue-strap) ⭐4,677 | JavaScript | Bootstrap components built with Vue.js
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) ⭐73,599 | N/A | 🎉 A curated list of awesome things related to Vue.js
+- [iamcco/markdown.css](https://github.com/iamcco/markdown.css) ⭐61 | CSS | markdown styles
+- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) ⭐10,363 | JavaScript | This is probably the best web presentation tool so far!
+- [ruanyf/react-demos](https://github.com/ruanyf/react-demos) ⭐16,482 | JavaScript | a collection of simple demos of React.js
+- [ecomfe/zrender](https://github.com/ecomfe/zrender) ⭐6,290 | TypeScript | A lightweight graphic library providing 2d draw for Apache ECharts
+- [mattn/emmet-vim](https://github.com/mattn/emmet-vim) ⭐6,463 | Vim Script | emmet for vim: http://emmet.io/
+- [apache/echarts](https://github.com/apache/echarts) ⭐66,280 | TypeScript | Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [angular/angular-seed](https://github.com/angular/angular-seed) ⭐13,114 | JavaScript | Seed project for angular apps. 
+- [sshwsfc/xadmin](https://github.com/sshwsfc/xadmin) ⭐4,759 | Python | Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
+- [OscarGodson/EpicEditor](https://github.com/OscarGodson/EpicEditor) ⭐4,221 | JavaScript | EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
+- [alexwolfe/Buttons](https://github.com/alexwolfe/Buttons) ⭐5,001 | JavaScript | A CSS button library built using Sass and Compass
+- [clean-css/clean-css](https://github.com/clean-css/clean-css) ⭐4,200 | JavaScript | Fast and efficient CSS optimizer for node.js and the Web
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) ⭐10,702 | N/A | 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+- [twbs/ratchet](https://github.com/twbs/ratchet) ⭐14,657 | CSS | Build mobile apps with simple HTML, CSS, and JavaScript components. 
+- [JacksonTian/fks](https://github.com/JacksonTian/fks) ⭐17,948 | JavaScript | 前端技能汇总 Frontend Knowledge Structure
+- [scottjehl/Respond](https://github.com/scottjehl/Respond) ⭐11,241 | JavaScript | A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐57,438 | JavaScript | A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [mdo/code-guide](https://github.com/mdo/code-guide) ⭐8,485 | SCSS | Standards for developing consistent, flexible, and sustainable HTML and CSS.
+- [twitter-archive/recess](https://github.com/twitter-archive/recess) ⭐2,173 | CSS | A simple and attractive code quality tool for CSS built on top of LESS
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) ⭐28,821 | TypeScript | The open source frontend for GitBook doc sites
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ⭐116,830 | N/A | :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+### 🛠️ 工具 & 生产力 (210个)
+- [zed-industries/zed](https://github.com/zed-industries/zed) ⭐81,770 | Rust | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) ⭐1,246 | TypeScript | Visual design tool for building Terminal User Interfaces
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐4,175 | TypeScript | Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) ⭐9,876 | JavaScript | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+- [spf13/cobra](https://github.com/spf13/cobra) ⭐43,847 | Go | A Commander for modern Go CLI interactions
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐94,298 | JavaScript | Clean Code concepts adapted for JavaScript
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) ⭐54,126 | Python | all of the workflows of n8n i could find (also from the site itself)
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) ⭐2,609 | Python |  Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages.
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) ⭐23,654 | Shell | 🖼️  A command-line system information tool written in bash 3.2+
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) ⭐27,203 | TypeScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) ⭐3,367 | Python | Modern scheduling library for Python
+- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) ⭐1,598 | Python | Instructions on how to read out the bambulab nfc tags
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) ⭐4,517 | TypeScript | A browser-based 3D CAD application for online model design and editing
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐99,766 | JavaScript | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [elrumordelaluz/svgson-cli](https://github.com/elrumordelaluz/svgson-cli) ⭐17 | JavaScript | CLI version of svgson
+- [uutils/coreutils](https://github.com/uutils/coreutils) ⭐23,204 | Rust | Cross-platform Rust rewrite of the GNU coreutils
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐60,883 | JavaScript | Official electron build of draw.io
+- [SuperSimpleDev/javascript-course](https://github.com/SuperSimpleDev/javascript-course) ⭐1,326 | JavaScript | Watch the course: https://youtu.be/EerdGm-ehJQ
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) ⭐10,415 | Rich Text Format | Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) ⭐31,134 | TypeScript | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) ⭐8,359 | Rust | A markdown terminal slideshow tool
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐160,661 | Python | A feature-rich command-line audio/video downloader
+- [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) ⭐2,796 | N/A | 绝妙的个人生产力（Awesome Productivity - Chinese version）
+- [LGUG2Z/awesome-komorebi](https://github.com/LGUG2Z/awesome-komorebi) ⭐238 | N/A | A curated list of awesome projects in the Komorebi ecosystem 🍉
+- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) ⭐927 | TypeScript | Interactive CLI that bumps your version numbers and more
+- [skywind3000/vim-init](https://github.com/skywind3000/vim-init) ⭐955 | Vim Script | 轻量级 Vim 配置框架，全中文注释
+- [googleapis/release-please](https://github.com/googleapis/release-please) ⭐6,830 | TypeScript | generate release PRs based on the conventionalcommits.org spec
+- [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) ⭐3,829 | Python | A script that helps generate a rich GitHub Contribution Graph for your account 🤖
+- [webclipper/web-clipper](https://github.com/webclipper/web-clipper) ⭐6,768 | TypeScript | For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) ⭐13,732 | HTML | Extension repository for Mihon and variants
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) ⭐14,268 | QML | Usability-first dotfiles
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) ⭐45,230 | Python | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) ⭐8,740 | Python | 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files. 
+- [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js) ⭐4,344 | JavaScript | :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery. 
+- [microsoft/powerbi-powershell](https://github.com/microsoft/powerbi-powershell) ⭐400 | C# | PowerShell community for Microsoft PowerBI. Here you will find resources and source for PowerShell modules targeting PowerBI.
+- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐7,172 | TypeScript | 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [poppinss/youch](https://github.com/poppinss/youch) ⭐1,196 | TypeScript | Pretty print JavaScript errors on the Web and the Terminal
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) ⭐132,852 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) ⭐3,802 | JavaScript | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) ⭐6,394 | N/A | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) ⭐21,527 | TypeScript | A collection of common interactive command line user interfaces.
+- [umijs/father](https://github.com/umijs/father) ⭐2,243 | TypeScript | NPM package development tool
+- [ttys026/json5-editor](https://github.com/ttys026/json5-editor) ⭐27 | TypeScript | https://ttys026.github.io/json5-editor/
+- [jdorn/json-editor](https://github.com/jdorn/json-editor) ⭐5,825 | JavaScript | JSON Schema Based Editor
+- [idrawjs/idraw](https://github.com/idrawjs/idraw) ⭐1,093 | TypeScript | A simple JavaScript framework for Drawing on the web.(一个面向Web绘图的JavaScript框架)
+- [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) ⭐5,058 | TypeScript | 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) ⭐28,146 | Lua | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js) ⭐2,099 | N/A | JavaScript风格指南
+- [tc39/proposals](https://github.com/tc39/proposals) ⭐19,101 | N/A | Tracking ECMAScript Proposals
+- [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) ⭐2,897 | TypeScript | A powerful micro front-end framework 🚚
+- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) ⭐12,050 | JavaScript | one for all free music in china (chrome extension, also works for firefox)
+- [conwnet/github1s](https://github.com/conwnet/github1s) ⭐23,302 | TypeScript | One second to read GitHub code with VS Code.
+- [xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly) ⭐100 | Shell | 📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) ⭐65,319 | N/A | A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+- [lostintangent/codeswing](https://github.com/lostintangent/codeswing) ⭐1,003 | TypeScript | VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) ⭐14,582 | Python | Python version of the Playwright testing and automation library.
+- [kbrsh/moon](https://github.com/kbrsh/moon) ⭐5,960 | JavaScript | 🌙 The minimal & fast library for functional user interfaces
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) ⭐55,789 | JavaScript | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) ⭐9,858 | JavaScript | This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) ⭐26,576 | TypeScript | Switch hosts quickly!
+- [ljharb/qs](https://github.com/ljharb/qs) ⭐8,928 | JavaScript | A querystring parser and serializer with nesting support
+- [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐6,995 | JavaScript | A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic 
+- [fzred/calculatorjs](https://github.com/fzred/calculatorjs) ⭐190 | JavaScript | Accurately arithmetic library. 解决Javascript浮点运算精度问题。
+- [Louiszhai/tool](https://github.com/Louiszhai/tool) ⭐5,649 | JavaScript | 开发效率提升：Mac生产力工具链推荐
+- [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) ⭐6,766 | N/A | A guide to understand the importance of commit messages and how to write them well
+- [browserslist/browserslist](https://github.com/browserslist/browserslist) ⭐13,529 | JavaScript | 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+- [basarat/typescript-book](https://github.com/basarat/typescript-book) ⭐21,511 | TypeScript | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+- [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) ⭐8,486 | TypeScript | Solve LeetCode problems in VS Code
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐45,926 | JavaScript | A browser based code editor
+- [aadsm/jschardet](https://github.com/aadsm/jschardet) ⭐740 | JavaScript | Character encoding auto-detection in JavaScript (port of python's chardet)
+- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐16,380 | N/A | 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
+- [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⭐4,859 | JavaScript | Deprecated, please use the TypeScript-Website repo instead
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐10,216 | TypeScript | Audio waveform player
+- [chalk/chalk](https://github.com/chalk/chalk) ⭐23,181 | JavaScript | 🖍 Terminal string styling done right
+- [greensock/GSAP](https://github.com/greensock/GSAP) ⭐24,586 | JavaScript | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) ⭐17,464 | JavaScript | The commitizen command line utility. #BlackLivesMatter
+- [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) ⭐15,288 | JavaScript | :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
+- [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) ⭐3,984 | HTML | 📦 Module thinking, principles, design patterns and best practices.
+- [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐17,030 | N/A | Tools of The Trade, from Hacker News.
+- [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) ⭐11,288 | JavaScript | JavaScript Vector Library
+- [akahuku/wasavi](https://github.com/akahuku/wasavi) ⭐1,540 | JavaScript | wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
+- [denoland/deno](https://github.com/denoland/deno) ⭐106,602 | Rust | A modern runtime for JavaScript and TypeScript.
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐195,925 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [othree/yajs.vim](https://github.com/othree/yajs.vim) ⭐684 | Vim script | YAJS.vim: Yet Another JavaScript Syntax for Vim
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) ⭐31,331 | Shell | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) ⭐31,135 | Python | :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [mapbox/flamebearer](https://github.com/mapbox/flamebearer) ⭐1,657 | JavaScript | Blazing fast flame graph tool for V8 and Node 🔥
+- [small-tou/js2image](https://github.com/small-tou/js2image) ⭐1,548 | JavaScript | 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
+- [pshihn/workly](https://github.com/pshihn/workly) ⭐1,880 | JavaScript | A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
+- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) ⭐10,655 | Vim Script | Vim 从入门到精通
+- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) ⭐16,380 | JavaScript | :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐140,202 | Python | Command-line program to download videos from YouTube.com and other video sites
+- [kaelzhang/skema](https://github.com/kaelzhang/skema) ⭐354 | JavaScript | 🛰  Skema provides a handy & composable way to validate / transform / purify the input data.
+- [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) ⭐29,481 | JavaScript | A set of best practices for JavaScript projects
+- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) ⭐2,951 | JavaScript | a streaming interface for archive generation
+- [goreliu/zshguide](https://github.com/goreliu/zshguide) ⭐1,181 | Shell | Zsh 开发指南
+- [sindresorhus/alfy](https://github.com/sindresorhus/alfy) ⭐2,653 | JavaScript | Create Alfred workflows with ease
+- [dvajs/dva-model-extend](https://github.com/dvajs/dva-model-extend) ⭐110 | JavaScript | Utility method to extend dva model.
+- [imsun/gitment](https://github.com/imsun/gitment) ⭐4,048 | JavaScript | A comment system based on GitHub Issues.
+- [aria2/aria2](https://github.com/aria2/aria2) ⭐40,830 | C++ | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐25,659 | N/A | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) ⭐36,024 | JavaScript | :black_heart: Create and share beautiful images of your source code
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐28,606 | JavaScript | 🎨 A curated list of delightful VS Code packages and resources.
+- [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) ⭐21,452 | JavaScript | 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [zhangxiang958/underscore-analysis](https://github.com/zhangxiang958/underscore-analysis) ⭐20 | JavaScript | underscore 源码分析
+- [lessfish/underscore-analysis](https://github.com/lessfish/underscore-analysis) ⭐3,937 | JavaScript | underscore-1.8.3.js 源码解读 & 系列文章（完）
+- [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) ⭐3,931 | JavaScript | A javascript library that makes your page dance.
+- [ai/nanoid](https://github.com/ai/nanoid) ⭐26,762 | JavaScript | A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) ⭐7,498 | JavaScript | 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+- [mochajs/mocha](https://github.com/mochajs/mocha) ⭐22,880 | JavaScript | ☕️ Classic, reliable, trusted test framework for Node.js and the browser
+- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) ⭐25,845 | JavaScript | A window.fetch JavaScript polyfill.
+- [easy-mock/easy-mock-cli](https://github.com/easy-mock/easy-mock-cli) ⭐526 | JavaScript | Create api.js for Easy-Mock. https://easy-mock.github.io/easy-mock-cli/
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) ⭐37,593 | JavaScript | 🤪 A list of funny and tricky JavaScript examples
+- [nzakas/understandinges6](https://github.com/nzakas/understandinges6) ⭐5,421 | N/A | Content for the ebook "Understanding ECMAScript 6"
+- [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) ⭐22,472 | JavaScript | An alternative side effect model for Redux apps
+- [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) ⭐33,061 | TypeScript | Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) ⭐17,836 | Vim script | :mortar_board: All things Vim!
+- [jaredreich/pell](https://github.com/jaredreich/pell) ⭐12,063 | JavaScript | 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [domchristie/humps](https://github.com/domchristie/humps) ⭐1,419 | JavaScript | 🐫 Underscore-to-camelCase converter (and vice versa) for strings and object keys in JavaScript.
+- [xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017) ⭐1,007 | JavaScript | 2017 edition of our front-end development guide
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐43,930 | N/A | An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [Sneezry/chrome_extensions_and_apps_programming](https://github.com/Sneezry/chrome_extensions_and_apps_programming) ⭐961 | JavaScript | Chrome扩展及应用开发
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) ⭐44,713 | Shell | Simple Python version management
+- [vercel/pkg](https://github.com/vercel/pkg) ⭐24,382 | JavaScript | Package your Node.js project into an executable
+- [d3plus/d3plus](https://github.com/d3plus/d3plus) ⭐1,616 | JavaScript | A javascript library that extends D3.js to enable fast and beautiful visualizations.
+- [moment/moment](https://github.com/moment/moment) ⭐47,979 | JavaScript | Parse, validate, manipulate, and display dates in javascript.
+- [sivan/javascript-style-guide](https://github.com/sivan/javascript-style-guide) ⭐2,004 | N/A | Airbnb JavaScript Style Guide 中文版
+- [wooorm/franc](https://github.com/wooorm/franc) ⭐4,392 | JavaScript | Natural language detection
+- [dylang/npm-check](https://github.com/dylang/npm-check) ⭐6,647 | JavaScript | Check for outdated, incorrect, and unused dependencies.
+- [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) ⭐3,450 | TypeScript | A full-featured framework for building command line applications (cli) with node.js
+- [shelljs/shelljs](https://github.com/shelljs/shelljs) ⭐14,400 | JavaScript | :shell: Portable Unix shell commands for Node.js
+- [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) ⭐6,129 | JavaScript | A tiny script for generating attractive colors
+- [ma6174/vim](https://github.com/ma6174/vim) ⭐4,246 | Vim script | vim配置文件和插件(不再维护)
+- [ruanyl/bigvim](https://github.com/ruanyl/bigvim) ⭐328 | Vim Script | Vim configuration
+- [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) ⭐10,722 | TypeScript | TypeScript 入门教程
+- [RicterZ/BGmi](https://github.com/RicterZ/BGmi) ⭐396 | N/A | BGmi is a cli tool for subscribed bangumi.
+- [JedWatson/classnames](https://github.com/JedWatson/classnames) ⭐17,806 | JavaScript | A simple javascript utility for conditionally joining classNames together
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) ⭐3,789 | C++ | Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [serkanyersen/underscore.py](https://github.com/serkanyersen/underscore.py) ⭐292 | Python | Python port of underscore.js
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) ⭐53,255 | JavaScript | PDF Reader in JavaScript
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐22,052 | C++ | Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+- [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) ⭐2,973 | Python | Full-featured library for writing Alfred 3 & 4 workflows
+- [ngreenstein/alfred-process-killer](https://github.com/ngreenstein/alfred-process-killer) ⭐671 | Ruby | An Alfred 2 workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using `kill -9`.
+- [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) ⭐12,268 | N/A | :metal: A collection of Alfred 3 and 4 workflows that will rock your world
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) ⭐39,564 | JavaScript | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) ⭐3,748 | JavaScript | [OBSOLETE] runs Node.js programs through Chromium DevTools
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) ⭐36,559 | TypeScript | ⏳ Modern JavaScript date utility library ⌛️
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) ⭐15,477 | Vim Script | Retro groove color scheme for Vim
+- [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) ⭐3,461 | Vim script | one colorscheme pack to rule them all!
+- [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config) ⭐1,464 | Vim Script | my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
+- [egoist/eme](https://github.com/egoist/eme) ⭐2,054 | JavaScript | Elegant Markdown Editor.
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) ⭐27,244 | JavaScript | In-browser code editor (version 5, legacy)
+- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) ⭐9,181 | VimL | use vim as IDE
+- [vim-dist/webvim](https://github.com/vim-dist/webvim) ⭐330 | Vim script | WebVim is a vim based distribution targeting JavaScript and Web development
+- [jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web) ⭐603 | Vim Script | ◈ 搞得像IDE一样的Vim，安装配置自己的Vim。
+- [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) ⭐4,718 | TypeScript | Generate Google Slides from markdown
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) ⭐16,746 | TypeScript | An emoji guide for your commit messages. 😜 
+- [umdjs/umd](https://github.com/umdjs/umd) ⭐7,447 | JavaScript | UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
+- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) ⭐30,193 | JavaScript | A lightweight JavaScript library for creating particles
+- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) ⭐6,603 | VimL | precision colorscheme for the vim text editor
+- [tankywoo/simiki](https://github.com/tankywoo/simiki) ⭐1,146 | Python | Simiki is a simple wiki framework, written in Python.
+- [wklken/k-tmux](https://github.com/wklken/k-tmux) ⭐93 | N/A | tmux.conf
+- [yarnpkg/yarn](https://github.com/yarnpkg/yarn) ⭐41,511 | JavaScript | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+- [wulkano/Kap](https://github.com/wulkano/Kap) ⭐19,209 | TypeScript | An open-source screen recorder built with web technology
+- [dbashford/mimosa](https://github.com/dbashford/mimosa) ⭐517 | JavaScript | A lightning-fast, modular, next generation browser development tool.
+- [tj/co](https://github.com/tj/co) ⭐11,865 | JavaScript | The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
+- [standard/standard](https://github.com/standard/standard) ⭐29,436 | JavaScript | 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) ⭐16,579 | CoffeeScript | Unfancy JavaScript
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) ⭐24,537 | Emacs Lisp | A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+- [heiswayi/the-plain](https://github.com/heiswayi/the-plain) ⭐532 | SCSS | A minimalist Jekyll theme, ideally designed for your personal blog use.
+- [nilbuild/tab-switcher](https://github.com/nilbuild/tab-switcher) ⭐448 | JavaScript | Chrome Extension - Switch between the opened tabs in the blink of an eye
+- [zce/caz](https://github.com/zce/caz) ⭐2,482 | TypeScript | A simple yet powerful template-based Scaffolding tools.
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐93,219 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) ⭐184,423 | N/A | A book series (2 published editions) on the JS language.
+- [gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) ⭐4,289 | JavaScript | 【应用号】IDE + 破解 + Demo
+- [faisalman/simple-excel-js](https://github.com/faisalman/simple-excel-js) ⭐190 | JavaScript | SimpleExcel.js - WIP client-side script to parse / convert / write XML / CSV / TSV / HTML / JSON / etc formats.
+- [stephenliberty/excel-builder.js](https://github.com/stephenliberty/excel-builder.js) ⭐332 | JavaScript | A way to build excel files with javascript
+- [sarcadass/granim.js](https://github.com/sarcadass/granim.js) ⭐5,311 | JavaScript | Create fluid and interactive gradient animations with this small javascript library.
+- [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) ⭐5,837 | JavaScript | A port of log4js to node.js
+- [dschep/ntfy](https://github.com/dschep/ntfy) ⭐4,960 | Python | 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [reorx/httpstat](https://github.com/reorx/httpstat) ⭐6,209 | Python | curl statistics made simple
+- [Tencent/vConsole](https://github.com/Tencent/vConsole) ⭐17,466 | TypeScript | A lightweight, extendable front-end developer tool for mobile web page.
+- [benhowdle89/grade](https://github.com/benhowdle89/grade) ⭐3,766 | JavaScript | This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.
+- [lionheart/pinboard.py](https://github.com/lionheart/pinboard.py) ⭐348 | Python | A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard.
+- [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) ⭐5,386 | CSS | Javascript tutorial book
+- [Moeditor/Moeditor](https://github.com/Moeditor/Moeditor) ⭐4,115 | JavaScript | (discontinued) Your all-purpose markdown editor.
+- [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) ⭐4,553 | N/A | OCD's Guide to Setting up Mac
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) ⭐9,072 | Shell |  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) ⭐2,880 | JavaScript | Web player for terminal session recordings and streams
+- [airbnb/javascript](https://github.com/airbnb/javascript) ⭐148,111 | JavaScript | JavaScript Style Guide
+- [square/maximum-awesome](https://github.com/square/maximum-awesome) ⭐5,700 | Ruby | Config files for vim and tmux.
+- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) ⭐7,822 | Vim Script | Vim - the text editor - for macOS
+- [exvim/main](https://github.com/exvim/main) ⭐732 | Vim script | This is the main repository for exVim!
+- [requirejs/requirejs](https://github.com/requirejs/requirejs) ⭐12,920 | JavaScript | A file and module loader for JavaScript
+- [binux/pyspider](https://github.com/binux/pyspider) ⭐16,816 | Python | A Powerful Spider(Web Crawler) System in Python.
+- [coffee-js/coffee-script](https://github.com/coffee-js/coffee-script) ⭐336 | CoffeeScript | CoffeeScript 中文翻译
+- [gulpjs/gulp](https://github.com/gulpjs/gulp) ⭐32,975 | JavaScript | A toolkit to automate & enhance your workflow
+- [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) ⭐10,831 | JavaScript | Give your pages some headroom. Hide your header until you need it
+- [hermanschaaf/mafan](https://github.com/hermanschaaf/mafan) ⭐149 | Python | A toolbox for working with the Chinese language in Python
+- [wklken/k-vim](https://github.com/wklken/k-vim) ⭐4,870 | Vim Script | vim配置
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐296,056 | Python | An opinionated list of Python frameworks, libraries, tools, and resources
+- [ChineseDron/pdf.js](https://github.com/ChineseDron/pdf.js) ⭐117 | N/A | PDF Reader in JavaScript
+- [xuxiaodong/gitimmersion](https://github.com/xuxiaodong/gitimmersion) ⭐93 | CSS | A guided tour that walks through the fundamentals of Git
+- [spf13/spf13-vim](https://github.com/spf13/spf13-vim) ⭐15,518 | VimL | The ultimate vim distribution
+- [b4winckler/macvim](https://github.com/b4winckler/macvim) ⭐5,052 | C | Vim - the text editor - for Mac OS X
+- [fengsp/python](https://github.com/fengsp/python) ⭐22 | N/A | Python Style Guide
+- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) ⭐809 | N/A | UNICODE Characters for SYMBL.CC
+- [atom/atom](https://github.com/atom/atom) ⭐60,802 | JavaScript | :atom: The hackable text editor
+- [mycolorway/simditor](https://github.com/mycolorway/simditor) ⭐5,010 | JavaScript | An Easy and Fast WYSIWYG Editor
+- [hexojs/hexo](https://github.com/hexojs/hexo) ⭐41,375 | TypeScript | A fast, simple & powerful blog framework, powered by Node.js.
+
+### 📦 其他 (142个)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) ⭐190,164 | Rust | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [chenglou/pretext](https://github.com/chenglou/pretext) ⭐46,255 | TypeScript | Fast, accurate & comprehensive text measurement & layout
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐48,879 | Python | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) ⭐303 | Python | 基于 linkding 二次开发增强的自托管书签管理器。内置简体中文🇨🇳/English支持，提供收藏数据看板（热力图🔥/日历图📅）、回收站♻️、自定义元数据&快照爬取脚本🐞等功能，对界面、搜索、筛选、排序、过滤器等进行了大量优化。
+- [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) ⭐6,663 | Python | Python datetimes made easy
+- [dashscope/dashscope-sdk-python](https://github.com/dashscope/dashscope-sdk-python) ⭐58 | Python | python sdk for dashscope [model studio](https://www.alibabacloud.com/en/product/modelstudio?_p_lc=1)
+- [jqknono/weread-challenge-selenium](https://github.com/jqknono/weread-challenge-selenium) ⭐141 | JavaScript | 微信读书自动签到刷时长
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) ⭐19,929 | TypeScript | Elegant reading of real-time and hottest news
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐33,806 | N/A | A curated list of amazingly awesome open-source sysadmin resources.
+- [ariafatah0711/zebar-glazewm](https://github.com/ariafatah0711/zebar-glazewm) ⭐51 | JavaScript | my setup zebar theme for glazewm, source: LeoBessin/quiet-velvet
+- [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) ⭐543 | PowerShell | 中国用户能用的 Scoop 应用库，每日同步 Scoop 的官方库，加速应用的下载速度
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐35,492 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) ⭐848 | JavaScript | tvbox 影视tv 宝盒 接口
+- [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) ⭐932 | Python | 直播源检索、测速、优选
+- [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) ⭐2,838 | Python | Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
+- [2hacc/TVBox](https://github.com/2hacc/TVBox) ⭐5,732 | JavaScript | TVBox 网络接口，更新速度快，接口访问速度快且稳定！
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐14,938 | PHP | A free, self-hostable news aggregator…
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) ⭐13,976 | Shell | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+- [xiaomabenten/system_planner](https://github.com/xiaomabenten/system_planner) ⭐373 | N/A | 💯2026年 系统规划与管理师 （软考高级）备考资源库。PC版免费刷题软件：https://ruankaodaren.com
+- [labulakalia/ibm_bak](https://github.com/labulakalia/ibm_bak) ⭐462 | Go | IBM Developer 中文网站文章备份
+- [mdkrieg/nodered-portable](https://github.com/mdkrieg/nodered-portable) ⭐13 | HTML | Node-RED Portable Version via Electron
+- [S7NetPlus/s7netplus](https://github.com/S7NetPlus/s7netplus) ⭐1,582 | C# | S7.NET+ -- A .NET library to connect to Siemens Step7 devices
+- [hechao17/Modbus-RTU](https://github.com/hechao17/Modbus-RTU) ⭐42 | Python | 无描述
+- [cxinping/PyQt5](https://github.com/cxinping/PyQt5) ⭐2,412 | HTML | 《PyQt5快速开发与实战》配套代码
+- [1332927388/python-pyqt5-opencv](https://github.com/1332927388/python-pyqt5-opencv) ⭐32 | Python | 基于python的上位机显示图像和数据通信
+- [Oslomayor/PyQt5-SerialPort-Stable](https://github.com/Oslomayor/PyQt5-SerialPort-Stable) ⭐165 | Python | PyQt5 写的 GUI 串口调试助手稳定版
+- [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) ⭐8,557 | N/A | Explanation to key concepts in ML
+- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) ⭐11,045 | N/A | A curated list of resources related to IPTV
+- [chiruom/jquery.danmu.js](https://github.com/chiruom/jquery.danmu.js) ⭐566 | JavaScript | jQuery弹幕插件
+- [lydell/json-stringify-pretty-compact](https://github.com/lydell/json-stringify-pretty-compact) ⭐268 | JavaScript | The best of both `JSON.stringify(obj)` and `JSON.stringify(obj, null, indent)`.
+- [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) ⭐5,584 | Vue | 商城低代码平台，可视化搭建H5、小程序多端商城
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) ⭐8,918 | PHP | The RSS feed for websites missing it
+- [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) ⭐1,649 | N/A | 邮箱 📧 newsletter RSS 荟萃 News
+- [swaywm/sway](https://github.com/swaywm/sway) ⭐16,872 | C | i3-compatible Wayland compositor
+- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) ⭐42,475 | N/A | Flight rules for git
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) ⭐3,004 | TypeScript | Convert email newsletters into Atom feeds
+- [Jxck/html2json](https://github.com/Jxck/html2json) ⭐716 | JavaScript | html2json & json2html
+- [f2e-journey/treasure](https://github.com/f2e-journey/treasure) ⭐573 | JavaScript | 互联网时代前端"手工艺人"的百宝箱
+- [xrr2016/neumorphism](https://github.com/xrr2016/neumorphism) ⭐83 | Dart | 无描述
+- [linjc/mini-stores](https://github.com/linjc/mini-stores) ⭐179 | TypeScript | 高性能小程序全局多状态管理库，解决小程序跨页面跨组件通信，支持多平台小程序使用。
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) ⭐19,714 | JavaScript | A Progressive Web App for local file sharing 
+- [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) ⭐15,278 | Less | A UI library by WeChat official design team, includes the most useful widgets/modules.
+- [44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel) ⭐222 | Jupyter Notebook | 基于思源黑体的开源像素字体
+- [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) ⭐12,377 | TypeScript | A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) ⭐6,151 | Kotlin | Iceraven Browser
+- [jquense/yup](https://github.com/jquense/yup) ⭐23,681 | TypeScript | Dead simple Object schema validation
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐90,245 | N/A | 科技爱好者周刊，每周五发布
+- [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) ⭐2,970 | PowerShell | if you are Thanos(root), this command could delete half your files randomly
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ⭐40,503 | HTML | 浙江大学课程攻略共享计划
+- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) ⭐15,843 | N/A | :trollface:Git的奇技淫巧
+- [soldair/node-qrcode](https://github.com/soldair/node-qrcode) ⭐8,092 | JavaScript | qr code generator
+- [623637646/996.Leave](https://github.com/623637646/996.Leave) ⭐6,633 | N/A | 逃离996
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) ⭐276,139 | N/A | Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) ⭐13,973 | CSS | Tomorrow Theme
+- [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba) ⭐3,231 | JavaScript | "结巴"中文分词的Node.js版本
+- [tj/commander.js](https://github.com/tj/commander.js) ⭐28,181 | JavaScript | node.js command-line interfaces made easy
+- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) ⭐10,669 | JavaScript | Node canvas is a Cairo backed Canvas implementation for NodeJS.
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) ⭐43,842 | TypeScript | 🧡 Everything is RSSible
+- [cburgmer/rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) ⭐2,568 | JavaScript | Renders HTML into the browser's canvas
+- [cnwhy/nzh](https://github.com/cnwhy/nzh) ⭐1,512 | JavaScript | 数字转中文（大写，小写）数字，金额。
+- [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) ⭐26,917 | CSS | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) ⭐50,879 | N/A | 微信小程序开发资源汇总 :100:
+- [dylang/shortid](https://github.com/dylang/shortid) ⭐5,717 | JavaScript | Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
+- [lukeed/sockette](https://github.com/lukeed/sockette) ⭐2,470 | JavaScript | The cutest little WebSocket wrapper! 🧦
+- [shadowsocksrr/shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr) ⭐3,369 | Python | Python port of ShadowsocksR
+- [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser) ⭐1,977 | JavaScript | Robust RSS, Atom, and RDF feed parsing in Node.js
+- [pinojs/pino](https://github.com/pinojs/pino) ⭐17,770 | JavaScript | 🌲 super fast, all natural json logger
+- [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) ⭐9,211 | JavaScript | A cron-like and not-cron-like job scheduler for Node.
+- [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) ⭐15,808 | HTML | Efficient Augmented Reality for the Web - 60fps on mobile!
+- [xcatliu/cqc](https://github.com/xcatliu/cqc) ⭐323 | JavaScript | Code Quality Checker - Check your code quality by running one command.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐98,877 | N/A | A collection of (mostly) technical things every software developer should know about
+- [LiikeJS/Liike](https://github.com/LiikeJS/Liike) ⭐178 | JavaScript | Tiny JS tweening library.
+- [fastify/fastify](https://github.com/fastify/fastify) ⭐36,178 | JavaScript | Fast and low overhead web framework, for Node.js
+- [matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) ⭐6,921 | JavaScript | Isomorphic WHATWG Fetch API, for Node & Browserify
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) ⭐17,551 | JavaScript | ✉️ Send e-mails with Node.JS – easy as cake!
+- [JiayiLi/source-code-study](https://github.com/JiayiLi/source-code-study) ⭐291 | JavaScript | 【正在进行中】源码学习
+- [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) ⭐16,161 | C | Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
+- [reduxjs/redux](https://github.com/reduxjs/redux) ⭐61,445 | TypeScript | A JS library for predictable global state management
+- [cubiq/iscroll](https://github.com/cubiq/iscroll) ⭐12,826 | JavaScript | Smooth scrolling for the web
+- [OptimalBits/bull](https://github.com/OptimalBits/bull) ⭐16,245 | JavaScript | Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [AlloyTeam/curvejs](https://github.com/AlloyTeam/curvejs) ⭐1,303 | JavaScript | Made curve a dancer in HTML5 canvas - 魔幻线条
+- [eczarny/spectacle](https://github.com/eczarny/spectacle) ⭐13,637 | Objective-C | Spectacle allows you to organize your windows without using a mouse.
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) ⭐22,968 | Perl | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) ⭐7,828 | Shell | Recall what you or your team did on the last working day
+- [dtao/lazy.js](https://github.com/dtao/lazy.js) ⭐5,978 | JavaScript | Like Underscore, but lazier
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) ⭐28,410 | Shell | :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+- [developit/unfetch](https://github.com/developit/unfetch) ⭐5,717 | JavaScript | 🐕 Bare minimum 500b fetch polyfill.
+- [Pana/nrm](https://github.com/Pana/nrm) ⭐2,999 | TypeScript | NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+- [beego/beego](https://github.com/beego/beego) ⭐32,404 | Go | beego is an open-source, high-performance web framework for the Go programming language.
+- [google/gson](https://github.com/google/gson) ⭐24,194 | Java | A Java serialization/deserialization library to convert Java Objects into JSON and back
+- [bilibili/flv.js](https://github.com/bilibili/flv.js) ⭐23,226 | JavaScript | HTML5 FLV Player
+- [lloyd/node-memwatch](https://github.com/lloyd/node-memwatch) ⭐2,505 | C++ | A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
+- [bnoordhuis/node-heapdump](https://github.com/bnoordhuis/node-heapdump) ⭐2,558 | JavaScript | Make a dump of the V8 heap for later inspection.
+- [hotoo/pinyin](https://github.com/hotoo/pinyin) ⭐7,812 | JavaScript | :cn: 汉字拼音 ➜ hàn zì pīn yīn
+- [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) ⭐2,318 | JavaScript | A collection of useful regex patterns
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) ⭐22,003 | JavaScript | An HTML5 saveAs() FileSaver implementation
+- [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) ⭐1,761 | SCSS | Ports of the gruvbox colorscheme
+- [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) ⭐3,446 | JavaScript | Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
+- [ruanyf/jstraining](https://github.com/ruanyf/jstraining) ⭐19,958 | N/A | 全栈工程师培训材料
+- [Bottr-js/Bottr](https://github.com/Bottr-js/Bottr) ⭐936 | JavaScript | 🤖 The world's simplest framework for creating Bots
+- [dempfi/ayu](https://github.com/dempfi/ayu) ⭐4,406 | Jupyter Notebook | 🎨🖌 Modern, bright color theme for Sublime Text
+- [orderedlist/modernist](https://github.com/orderedlist/modernist) ⭐472 | CSS | A Theme for GitHub Pages
+- [cnpm/npminstall](https://github.com/cnpm/npminstall) ⭐501 | JavaScript | Make `npm install` fast and easy.
+- [christinecha/choreographer-js](https://github.com/christinecha/choreographer-js) ⭐1,996 | JavaScript | A simple library to take care of complicated animations.
+- [liuxuanqiang/wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) ⭐2,978 | JavaScript | 微信小程序-移动端商城
+- [lypeer/wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐744 | JavaScript | 无描述
+- [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) ⭐2,949 | JavaScript | 无描述
+- [gztchan/wechat-mini-app](https://github.com/gztchan/wechat-mini-app) ⭐154 | JavaScript | 无描述
+- [xwartz/wechat-app-demo](https://github.com/xwartz/wechat-app-demo) ⭐1,784 | JavaScript | 📱微信小程序 demo
+- [w7corp/easywechat](https://github.com/w7corp/easywechat) ⭐10,380 | PHP | 📦 一个 PHP 微信 SDK
+- [DIYgod/Resume](https://github.com/DIYgod/Resume) ⭐1,013 | HTML | :cake: Simple resume
+- [github/gitignore](https://github.com/github/gitignore) ⭐173,687 | N/A | A collection of useful .gitignore templates
+- [balderdashy/sails](https://github.com/balderdashy/sails) ⭐22,813 | JavaScript | Realtime MVC Framework for Node.js
+- [tj/n](https://github.com/tj/n) ⭐19,521 | Shell | Node version management
+- [Unitech/gridcontrol](https://github.com/Unitech/gridcontrol) ⭐578 | JavaScript | Networked Process Manager to execute functions in a Computer Grid
+- [bodil/eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) ⭐1,096 | JavaScript | An eslint config which reduces JS to a pure functional language
+- [maxmechanic/node-pinboard](https://github.com/maxmechanic/node-pinboard) ⭐103 | JavaScript | A Node.js wrapper for the Pinboard API.
+- [mewo2/terrain](https://github.com/mewo2/terrain) ⭐3,044 | JavaScript | Fantasy map generator
+- [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) ⭐4,411 | PHP | This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [muan/scribble](https://github.com/muan/scribble) ⭐769 | HTML | :tomato: A Jekyll theme.
+- [eladnava/mailgen](https://github.com/eladnava/mailgen) ⭐2,542 | HTML | A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
+- [xiangming/landscape-plus](https://github.com/xiangming/landscape-plus) ⭐504 | CSS | 针对中国大陆地区对hexo官方主题landscape进行优化。
+- [markusslima/bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle) ⭐715 | CSS | jQuery customization of input html file for Bootstrap Twitter
+- [ghuntley/terminator-solarized](https://github.com/ghuntley/terminator-solarized) ⭐318 | N/A | A color theme for terminator using Ethan Schoonover’s Solarized color scheme
+- [ucloud-web/python-sdk-v2](https://github.com/ucloud-web/python-sdk-v2) ⭐23 | Python | python-sdk-v2
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) ⭐22,537 | CoffeeScript | No longer maintained, see pinned issues
+- [RubyLouvre/avalon.oniui](https://github.com/RubyLouvre/avalon.oniui) ⭐413 | JavaScript | 基于avalon的组件库
+- [hound-search/hound](https://github.com/hound-search/hound) ⭐5,828 | JavaScript | Lightning fast code searching made easy
+- [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) ⭐33,592 | Python | 无描述
+- [cnpm/cnpmjs.org](https://github.com/cnpm/cnpmjs.org) ⭐3,536 | JavaScript | ‼️ ‼️ ‼️ ‼️  DEPRECATED, please use https://github.com/cnpm/cnpmcore ‼️ ‼️ ‼️ ‼️ 
+- [twitter/twemoji](https://github.com/twitter/twemoji) ⭐17,637 | HTML | Emoji for everyone. https://twemoji.twitter.com/
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐171,886 | Go | A curated list of awesome Go frameworks, libraries and software
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐32,522 | N/A | A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [codrops/PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐645 | CSS | Modern ways of revealing new content using SVG animations.
+- [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) ⭐21,516 | C | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+- [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) ⭐2,779 | TypeScript | 无描述
+- [rstacruz/nprogress](https://github.com/rstacruz/nprogress) ⭐26,411 | JavaScript | For slim progress bars like on YouTube, Medium, etc
+- [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) ⭐3,254 | N/A | Bits and bytes of Python from the Internet
+- [hzlzh/Best-App](https://github.com/hzlzh/Best-App) ⭐17,498 | N/A | 收集&推荐优秀的 Apps/硬件/技巧/周边等
+- [sergeche/emmet-sublime](https://github.com/sergeche/emmet-sublime) ⭐5,225 | JavaScript | Emmet for Sublime Text
+- [michaelliao/sinaweibopy](https://github.com/michaelliao/sinaweibopy) ⭐1,269 | Python | 新浪微博Python SDK
+- [foru17/ghostwill](https://github.com/foru17/ghostwill) ⭐200 | CSS | A responsive ghost theme
+
+### 🤖 AI & 大模型 (119个)
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) ⭐60,150 | JavaScript | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐120,670 | Python | Python tool for converting files and office documents to Markdown.
+- [openai/codex](https://github.com/openai/codex) ⭐80,115 | Rust | Lightweight coding agent that runs in your terminal
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐108,401 | C++ | LLM inference in C/C++
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐71,381 | N/A | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐179,113 | Shell | An agentic skills framework & software development methodology that works.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ⭐28,926 | N/A | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ⭐27,566 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐25,136 | JavaScript | The design language that makes your AI harness better at design.
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐18,590 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) ⭐21,281 | Python | 无描述
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) ⭐5,030 | N/A | This repo includes Claude prompt curation to use Claude better.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ⭐368,574 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) ⭐2,376 | Rust | ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) ⭐45,045 | TypeScript | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐13,810 | Python | 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [snarktank/antfarm](https://github.com/snarktank/antfarm) ⭐2,446 | TypeScript | Build your agent team in OpenClaw with one command.
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) ⭐56,660 | Python | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐20,145 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ⭐59,743 | Rust | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) ⭐16,185 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+- [openai/skills](https://github.com/openai/skills) ⭐18,310 | Python | Skills Catalog for Codex
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐23,609 | TypeScript | An autonomous agent for deep financial research
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) ⭐41,268 | TypeScript | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐29,614 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) ⭐38,229 | TypeScript | 🧡 Folo is the AI RSS Reader
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ⭐23,787 | TypeScript | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \| Customize your assistants \| Star if you like it!
+- [puckeditor/puck](https://github.com/puckeditor/puck) ⭐12,615 | TypeScript | The visual editor for React.
+- [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view) ⭐446 | TypeScript | Shadcn-ui based tree view, with multi-selection, drag, and more!
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) ⭐19,067 | Python | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐85,648 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐20,077 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+- [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) ⭐889 | Python | FreeCAD MCP(Model Context Protocol) server
+- [cline/cline](https://github.com/cline/cline) ⭐61,385 | TypeScript | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) ⭐35,065 | C++ | Cross-platform, customizable ML solutions for live and streaming media.
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) ⭐15,248 | TypeScript | 🪄 Create rich visualizations with AI 
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ⭐43,818 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) ⭐9,223 | Python | Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
+- [tw93/Pake](https://github.com/tw93/Pake) ⭐48,452 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command.
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) ⭐16,014 | Jupyter Notebook | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) ⭐32,164 | Python | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) ⭐7,210 | JavaScript | Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐74,211 | MDX | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) ⭐15,151 | Python | The LLM Evaluation Framework
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐42,203 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [JexinSam/mssql_mcp_server](https://github.com/JexinSam/mssql_mcp_server) ⭐54 | Python | A Model Context Protocol (MCP) server facilitating secure interactions with MSSQL databases.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) ⭐79,702 | Python | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) ⭐147,714 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) ⭐4,764 | Python | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) ⭐34,392 | Python | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) ⭐10,003 | Go | Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) ⭐10,625 | TypeScript | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐135,615 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) ⭐15,558 | TypeScript | Free, simple, fast interactive diagrams for any GitHub repository
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) ⭐25,005 | Python | 🚀 The fast, Pythonic way to build MCP servers and clients.
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) ⭐2,217 | N/A | 📚 Personal collection of ChatGPT prompts for developers!
+- [agno-agi/agno](https://github.com/agno-agi/agno) ⭐39,919 | Python | Run agents as production software.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐108,858 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) ⭐4,223 | Jupyter Notebook | GenAI Cookbook
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐60,550 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) ⭐92,646 | Python | real time face swap and one-click video deepfake with only a single image
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ⭐3,632 | Lua | Chat with GitHub Copilot in Neovim
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐34,650 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) ⭐12,801 | Python | Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) ⭐9,090 | Python | Fully local web research and report writing assistant
+- [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) ⭐2,220 | Python | Develop software autonomously.
+- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) ⭐25,469 | Java | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐39,380 | MDX | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) ⭐6,219 | JavaScript | 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐79,273 | JavaScript | :zap: Dynamically generated stats for your github readmes
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ⭐37,864 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐186,767 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [camel-ai/owl](https://github.com/camel-ai/owl) ⭐19,740 | Python | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+- [dagger/dagger](https://github.com/dagger/dagger) ⭐15,761 | Go | Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) ⭐92,231 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐184,003 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [supabase/supabase](https://github.com/supabase/supabase) ⭐101,891 | TypeScript | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) ⭐37,091 | N/A | Integrate the DeepSeek API into popular software
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) ⭐72,659 | Python | 🙌 OpenHands: AI-Driven Development
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐86,277 | N/A | A collection of MCP servers.
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐110,227 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 
+- [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) ⭐4,584 | JavaScript | The python library for real-time communication
+- [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) ⭐5,362 | Rust | A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) ⭐23,240 | Python | DeepSeek Coder: Let the Code Write Itself
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) ⭐21,502 | Python | Automate browser based workflows with AI
+- [nikhil1raghav/kindle-send](https://github.com/nikhil1raghav/kindle-send) ⭐271 | Go | Send webpages, documents and bookmarks to kindle
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) ⭐21,054 | Python | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) ⭐12,594 | Python | Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
+- [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) ⭐15,602 | Python | ChatGLM2-6B: An Open Bilingual Chat LLM \| 开源双语对话语言模型
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) ⭐47,222 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All!
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐162,730 | Python | Stable Diffusion web UI
+- [yaseng/jquery.barrager.js](https://github.com/yaseng/jquery.barrager.js) ⭐638 | HTML |  专业的网页弹幕插件
+- [asmvik/yabai](https://github.com/asmvik/yabai) ⭐28,796 | C | A tiling window manager for macOS based on binary space partitioning
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) ⭐8,896 | Vue | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐70,237 | Dart | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [roapi/roapi](https://github.com/roapi/roapi) ⭐3,415 | Rust | Create full-fledged APIs for slowly moving datasets without writing a single line of code.
+- [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) ⭐2,197 | JavaScript | ☔ 敏捷开发最强大易用的接口工具，机器学习零代码测试与 AI 问答、生成代码与静态检查、生成文档与光标悬浮注释，腾讯、华为、SHEIN、传音、工行等使用 ☔ The most advanced tool for HTTP API. Machine learning no-code testing and AI assistant, generating codes and static analysis, generating comments and floating hints. Used by Tencent, Huawei, SHEIN, TRANSSION, ICBC, etc.
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) ⭐36,895 | Python | 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [udecode/plate](https://github.com/udecode/plate) ⭐16,223 | TypeScript | Rich-text editor with AI and shadcn/ui
+- [Thunberg087/vue-fragment](https://github.com/Thunberg087/vue-fragment) ⭐668 | JavaScript | a very candide fragment component for Vue.js
+- [colinhacks/zod](https://github.com/colinhacks/zod) ⭐42,585 | TypeScript | TypeScript-first schema validation with static type inference
+- [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) ⭐1,865 | JavaScript | GUI app for editing, visualizing, and manipulating JSON data
+- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) ⭐9,270 | TypeScript | A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) ⭐31,085 | JavaScript | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [Kong/kong](https://github.com/Kong/kong) ⭐43,315 | Lua | 🦍 The API and AI Gateway
+- [forwardemail/supertest](https://github.com/forwardemail/supertest) ⭐14,355 | JavaScript | 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [Shopify/draggable](https://github.com/Shopify/draggable) ⭐18,453 | JavaScript | The JavaScript Drag & Drop library your grandparents warned you about.
+- [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) ⭐22,236 | TypeScript | A draggable and resizable grid layout with responsive breakpoints, for React.
+- [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) ⭐6,663 | JavaScript | A multi window layout manager for webapps
+- [apache/superset](https://github.com/apache/superset) ⭐72,699 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform
+- [ragingwind/devdogs](https://github.com/ragingwind/devdogs) ⭐233 | JavaScript | DevdoGs, Unofficial Devdocs app
+- [janhuenermann/neurojs](https://github.com/janhuenermann/neurojs) ⭐4,374 | JavaScript | A JavaScript deep learning and reinforcement learning library.
+- [forwardemail/superagent](https://github.com/forwardemail/superagent) ⭐16,646 | JavaScript | Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [netdata/netdata](https://github.com/netdata/netdata) ⭐78,709 | C | The fastest path to AI-powered full stack observability, even for lean teams.
+- [node-formidable/formidable](https://github.com/node-formidable/formidable) ⭐7,177 | JavaScript | The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
+- [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) ⭐4,025 | JavaScript | ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) ⭐20,450 | TypeScript | Full-sized drag & drop event calendar in JavaScript
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) ⭐33,450 | Python | A proxy tool to bypass GFW.
+- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) ⭐30,774 | PHP | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+
+### ⚙️ 后端 & API (91个)
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) ⭐14,175 | Rust | Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [playcanvas/engine](https://github.com/playcanvas/engine) ⭐14,854 | JavaScript | Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) ⭐593 | N/A | Bambu API docs
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) ⭐31,350 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) ⭐3,976 | JavaScript | a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐121,135 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) ⭐17,156 | Jupyter Notebook | Examples and guides for using the Gemini API
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) ⭐14,051 | Java | Access your entire server infrastructure from your local desktop
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐432,072 | Python | A collective list of free APIs
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) ⭐14,584 | C# | :mag: Quick file search & app launcher for Windows with community-made plugins
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) ⭐16,051 | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [synesthesiam/opentts](https://github.com/synesthesiam/opentts) ⭐1,116 | Python | Open Text to Speech Server
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐40,652 | Jupyter Notebook | Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) ⭐1,176 | Go | A basic REST service for JSON data - enough for prototyping and MVPs!
+- [DO-SAY-GO/WeirdJSON](https://github.com/DO-SAY-GO/WeirdJSON) ⭐200 | JavaScript | the JS/Node.JS library for encoding complex and unconventional data structures. Support for BigInts, TypedArrays, null, undefined, and Symbol. Multiple flavors available.
+- [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) ⭐2,027 | JavaScript | JavaScript (engine) Version Updater
+- [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) ⭐4,330 | JavaScript | sqlite3 in ur indexeddb (hopefully a better backend soon)
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) ⭐26,693 | TypeScript | A powerful JavaScript library for interacting with the Discord API
+- [calganaygun/MDcat](https://github.com/calganaygun/MDcat) ⭐219 | Go | A super simple script which uses the GitHub API to convert your markdown files to GitHub styled HTML site.
+- [AirtestProject/Poco](https://github.com/AirtestProject/Poco) ⭐1,924 | Python | A cross-engine test automation framework based on UI inspection
+- [hapijs/joi](https://github.com/hapijs/joi) ⭐21,194 | JavaScript | The most powerful data validation library for JS
+- [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) ⭐4,933 | N/A | Information Protection & OSINT resources \| 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
+- [prisma/prisma](https://github.com/prisma/prisma) ⭐45,890 | TypeScript | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [lerna/lerna](https://github.com/lerna/lerna) ⭐36,073 | TypeScript | Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [YMFE/yapi](https://github.com/YMFE/yapi) ⭐27,732 | JavaScript | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [microsoft/terminal](https://github.com/microsoft/terminal) ⭐103,037 | C++ | The new Windows Terminal and the original Windows console host, all in the same place!
+- [v8/v8](https://github.com/v8/v8) ⭐25,000 | C++ | The official mirror of the V8 Git repository
+- [coder/sshcode](https://github.com/coder/sshcode) ⭐5,710 | Go | Run VS Code on any server over SSH.
+- [coder/code-server](https://github.com/coder/code-server) ⭐77,405 | TypeScript | VS Code in the browser
+- [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) ⭐3,545 | JavaScript | Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
+- [gatieme/CodingInterviews](https://github.com/gatieme/CodingInterviews) ⭐4,870 | C++ | 剑指Offer——名企面试官精讲典型编程题
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐105,252 | Dockerfile | :white_check_mark:  The Node.js best practices list (July 2024)
+- [EngineLin/Front-End-Checklist](https://github.com/EngineLin/Front-End-Checklist) ⭐421 | N/A | 🗂 給現代網站及細膩開發者使用，超棒的前端開發者清單
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) ⭐9,169 | JavaScript | Highly configurable logging library
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) ⭐48,628 | JavaScript | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [helmetjs/helmet](https://github.com/helmetjs/helmet) ⭐10,673 | TypeScript | Help secure Express apps with various HTTP headers
+- [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) ⭐6,458 | N/A | 《Node.js 调试指南》
+- [fatedier/frp](https://github.com/fatedier/frp) ⭐106,244 | Go | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐139,338 | TypeScript | Curated coding interview preparation materials for busy software engineers
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) ⭐46,131 | N/A | Learn regex the easy way
+- [Activiti/Activiti](https://github.com/Activiti/Activiti) ⭐10,530 | Java | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. 
+- [iMeiji/shadowsocks_install](https://github.com/iMeiji/shadowsocks_install) ⭐4,189 | N/A | Auto install shadowsocks server，thanks 秋水逸冰
+- [devpi/devpi](https://github.com/devpi/devpi) ⭐1,170 | Python | Python PyPi staging server and packaging, testing, release tool
+- [rlidwka/sinopia](https://github.com/rlidwka/sinopia) ⭐5,487 | JavaScript | Private npm repository server
+- [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) ⭐20,279 | Vim Script | A modular configuration of Vim and Neovim
+- [koajs/examples](https://github.com/koajs/examples) ⭐4,537 | JavaScript | Example Koa apps
+- [koajs/koa](https://github.com/koajs/koa) ⭐35,705 | JavaScript | Expressive middleware for node.js using ES2017 async functions
+- [slatedocs/slate](https://github.com/slatedocs/slate) ⭐36,134 | N/A | Beautiful static documentation for your API
+- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) ⭐46,844 | Go | A platform for building proxies to bypass network restrictions.
+- [qTox/qTox](https://github.com/qTox/qTox) ⭐4,969 | C++ | qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [kadirahq/lokka](https://github.com/kadirahq/lokka) ⭐1,526 | JavaScript | Simple JavaScript Client for GraphQL
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) ⭐49,927 | Ruby | Your self-hosted, globally interconnected microblogging community
+- [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) ⭐5,270 | JavaScript | Use full ES2015+ features to develop Node.js applications, Support TypeScript.
+- [facebook/yoga](https://github.com/facebook/yoga) ⭐18,720 | C++ | Yoga is an embeddable layout engine targeting web standards.
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐111,631 | N/A | A collection of various awesome lists for hackers, pentesters and security researchers
+- [getsentry/sentry](https://github.com/getsentry/sentry) ⭐43,775 | Python | Developer-first error tracking and performance monitoring
+- [micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) ⭐1,149 | JavaScript | Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.
+- [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) ⭐26,466 | Python | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+- [youfou/wxpy](https://github.com/youfou/wxpy) ⭐14,266 | Python | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
+- [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) ⭐1,247 | JavaScript | 📜 Create mutable log lines into the terminal, and give life to your logs!
+- [form-data/form-data](https://github.com/form-data/form-data) ⭐2,349 | JavaScript | A module to create readable `"multipart/form-data"` streams.  Can be used to submit forms and file uploads to other web applications. 
+- [hyperobject/crossorigin.me](https://github.com/hyperobject/crossorigin.me) ⭐677 | JavaScript | A CORS proxy for everyone.
+- [expressjs/multer](https://github.com/expressjs/multer) ⭐12,046 | JavaScript | Node.js middleware for handling `multipart/form-data`.
+- [expressjs/express](https://github.com/expressjs/express) ⭐68,990 | JavaScript | Fast, unopinionated, minimalist web framework for node.
+- [nswbmw/N-blog](https://github.com/nswbmw/N-blog) ⭐15,420 | JavaScript | 《一起学 Node.js》
+- [pugjs/pug](https://github.com/pugjs/pug) ⭐21,849 | JavaScript | Pug – robust, elegant, feature rich template engine for Node.js
+- [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) ⭐7,105 | Objective-C | Dash for iOS was discontinued. Please check out Dash for macOS instead.
+- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) ⭐19,171 | JavaScript | List of JavaScript methods which you can use natively + ESLint Plugin
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐87,910 | Go | The world’s fastest framework for building websites.
+- [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) ⭐5,109 | TypeScript | TagSpaces is an offline, open source, document manager with tagging support
+- [debugger22/github-audio](https://github.com/debugger22/github-audio) ⭐1,754 | TypeScript | Listen to music generated by events happening across GitHub :octocat: 🎷
+- [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) ⭐10,581 | Java | OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+- [upbit/pixivpy](https://github.com/upbit/pixivpy) ⭐2,022 | Python | Pixiv API for Python
+- [petecoop/generator-express](https://github.com/petecoop/generator-express) ⭐812 | JavaScript | An express generator for Yeoman, based on the express command line tool.
+- [faye/faye](https://github.com/faye/faye) ⭐4,389 | JavaScript | Simple pub/sub messaging for the web
+- [getpelican/pelican](https://github.com/getpelican/pelican) ⭐13,289 | Python | Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) ⭐7,189 | TypeScript | deepstream.io server
+- [nicolargo/glances](https://github.com/nicolargo/glances) ⭐32,426 | Python | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [liabru/matter-js](https://github.com/liabru/matter-js) ⭐18,177 | JavaScript | a 2D rigid body physics engine for the web ▲● ■
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) ⭐35,639 | Vim Script | :hibiscus: Minimalist Vim Plugin Manager
+- [laverdet/node-fibers](https://github.com/laverdet/node-fibers) ⭐3,550 | C++ | Fiber/coroutine support for v8 and node.
+- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) ⭐3,621 | JavaScript | 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
+- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ⭐10,161 | JavaScript | A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [qiwsir/StarterLearningPython](https://github.com/qiwsir/StarterLearningPython) ⭐1,845 | Python | Learning Python: from Beginner to Master. https://lqlab.readthedocs.io
+- [pallets/jinja](https://github.com/pallets/jinja) ⭐11,611 | Python | A very fast and expressive template engine.
+- [XadillaX/xto](https://github.com/XadillaX/xto) ⭐142 | JavaScript | :love_letter: Just an API for Node.js to query each express.
+- [RubyLouvre/avalon](https://github.com/RubyLouvre/avalon) ⭐5,775 | JavaScript | an elegant efficient express mvvm framework
+- [oklai/koala](https://github.com/oklai/koala) ⭐3,954 | JavaScript | Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) ⭐52,742 | JavaScript | Independent technology for modern publishing, memberships, subscriptions and newsletters.
+- [pallets/flask](https://github.com/pallets/flask) ⭐71,491 | Python | The Python micro framework for building web applications.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) ⭐186,710 | Shell | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+### 📝 文档 & 知识管理 (23个)
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐70,771 | Roff | 所有小初高、大学PDF教材。
+- [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) ⭐475 | TypeScript | 无描述
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐387,733 | Python | :books: Freely available programming books
+- [gedoor/legado](https://github.com/gedoor/legado) ⭐46,435 | Kotlin | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) ⭐22,048 | Python | Project documentation with Markdown.
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) ⭐25,939 | TypeScript | :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+- [fi3ework/blog](https://github.com/fi3ework/blog) ⭐851 | N/A | 📝
+- [Micropoor/Micro8](https://github.com/Micropoor/Micro8) ⭐18,070 | N/A | Gitbook
+- [bagder/http3-explained](https://github.com/bagder/http3-explained) ⭐2,221 | N/A | A document describing the HTTP/3 and QUIC protocols
+- [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) ⭐6,337 | HTML | :books: Go语言圣经中文版
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) ⭐20,069 | Go | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) ⭐184,314 | N/A | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) ⭐8,043 | N/A | A curated selection of blog posts on Go
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⭐76,033 | N/A | :link: Some useful websites for programmers.
+- [manageyp/manageyp.github.com](https://github.com/manageyp/manageyp.github.com) ⭐170 | HTML | Henry Lee's Blog.
+- [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) ⭐2,828 | Python | :green_book: The Beauty of Python Programming.
+- [ruanyf/loppo](https://github.com/ruanyf/loppo) ⭐741 | JavaScript | an extremely easy static site generator of markdown documents
+- [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) ⭐4,534 | N/A | Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+- [mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes) ⭐2,332 | CSS | A directory of the best-looking themes for Jekyll blogs
+- [Snipaste/feedback](https://github.com/Snipaste/feedback) ⭐3,570 | N/A | Feedback & wiki for Snipaste https://snipaste.com
+- [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) ⭐3,485 | CoffeeScript | A flexible static site generator
+- [exceljs/exceljs](https://github.com/exceljs/exceljs) ⭐15,276 | JavaScript | Excel Workbook Manager
+- [qyuhen/book](https://github.com/qyuhen/book) ⭐12,540 | N/A | 学习笔记
+
+### 🖥️ 系统 & 底层 (16个)
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐31,014 | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [WCHSoftGroup/ch34xser_macos](https://github.com/WCHSoftGroup/ch34xser_macos) ⭐513 | N/A | MacOS USB driver for USB to serial chip ch340, ch341, ch342, ch343, ch344, ch9101, ch9102, ch9103, etc
+- [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) ⭐2,595 | Jupyter Notebook | computer vision projects \|  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
+- [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop) ⭐11,252 | JavaScript | one for all free music in china (Windows, Mac, Linux desktop)
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐51,608 | JavaScript | A full-featured download manager.
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) ⭐8,656 | Python | Linux device manager for Logitech devices
+- [Humpheh/goboy](https://github.com/Humpheh/goboy) ⭐2,637 | Go | Multi-platform Nintendo Game Boy Color emulator written in Go
+- [balena-io/etcher](https://github.com/balena-io/etcher) ⭐33,619 | TypeScript | Flash OS images to SD cards & USB drives, safely and easily.
+- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) ⭐3,976 | Swift | Native client of TinyPNG on macOS
+- [darknessomi/musicbox](https://github.com/darknessomi/musicbox) ⭐9,802 | Python | 网易云音乐命令行版本
+- [720kb/ndm](https://github.com/720kb/ndm) ⭐2,138 | JavaScript | :computer: npm desktop manager https://720kb.github.io/ndm
+- [rime/squirrel](https://github.com/rime/squirrel) ⭐5,935 | Swift | 【鼠鬚管】Rime for macOS
+- [markedjs/marked](https://github.com/markedjs/marked) ⭐36,753 | JavaScript | A markdown parser and compiler. Built for speed.
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) ⭐35,324 | TypeScript | Make any web page a desktop application
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐103,335 | Swift |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+- [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) ⭐1,571 | CSS | the new world, linux
+
+### ☁️ DevOps & 基础设施 (13个)
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) ⭐18,821 | Python | Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) ⭐1,438 | JavaScript | 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) ⭐3,284 | PHP | LinkAce is a self-hosted archive to collect links of your favorite websites.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐115,817 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn) ⭐389 | templ | 适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w+。
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐78,213 | TypeScript | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) ⭐1,965 | JavaScript |  A docker registry proxy run on cloudflare worker.
+- [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) ⭐2,846 | Python | Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
+- [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) ⭐6,371 | Shell | Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
+- [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) ⭐14,705 | N/A | 国内低代码平台从业者交流
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) ⭐4,573 | TypeScript | 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [wekan/wekan](https://github.com/wekan/wekan) ⭐20,918 | JavaScript | The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) ⭐15,835 | Go | Easy and fast file sharing from the command-line.
+
+### 📚 学习 & 教育 (12个)
+- [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) ⭐2,831 | TypeScript | 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 \| 全网资源聚合站
+- [ossu/computer-science](https://github.com/ossu/computer-science) ⭐203,555 | HTML | 🎓 Path to a free self-taught education in Computer Science!
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐499,212 | Markdown | Master programming by recreating your favorite technologies from scratch.
+- [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) ⭐18,452 | N/A | 技术面试最后反问面试官的话
+- [jakegiltsoff/typographyontheweb](https://github.com/jakegiltsoff/typographyontheweb) ⭐22 | CSS | A starting point for web designers and developers to learn more about typography
+- [poetries/FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions) ⭐2,229 | N/A | 关注公众号「前端进阶之旅」，一起学习。前端面试常考问题整理，按模块知识点分类 Front-end-Developer-Questions by Modules and knowledge 
+- [markyun/markyun](https://github.com/markyun/markyun) ⭐11,239 | N/A | 在Github的学习片段
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) ⭐20,943 | HTML | Create graphics with a hand-drawn, sketchy, appearance
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐347,090 | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [kdn251/interviews](https://github.com/kdn251/interviews) ⭐64,945 | Java | Everything you need to know to get the job.
+- [zhongyi-tong/git-recipes](https://github.com/zhongyi-tong/git-recipes) ⭐14,747 | N/A | 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [rabbitvcs/rabbitvcs](https://github.com/rabbitvcs/rabbitvcs) ⭐392 | Python | The new home of rabbitvcs
+
+### 🗄️ 数据库 & 存储 (12个)
+- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) ⭐5,333 | Java | 📚 后端程序员应该掌握的主流数据库知识
+- [Ncnbb/well-cache](https://github.com/Ncnbb/well-cache) ⭐32 | JavaScript | 前端缓存插件
+- [redis/ioredis](https://github.com/redis/ioredis) ⭐15,257 | TypeScript | 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+- [harelba/q](https://github.com/harelba/q) ⭐10,346 | Python | q - Run SQL directly on delimited files and multi-file sqlite databases
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐51,381 | JavaScript | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+- [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) ⭐15,064 | JavaScript | Node.js based forum software built for the modern web
+- [Automattic/kue](https://github.com/Automattic/kue) ⭐9,450 | JavaScript | Kue is a priority job queue backed by redis, built for node.js.
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) ⭐21,465 | PHP | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
+- [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim) ⭐2,727 | Vim Script | Next generation completion framework after neocomplcache
+- [luin/medis](https://github.com/luin/medis) ⭐11,736 | JavaScript | 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+- [sdispater/orator](https://github.com/sdispater/orator) ⭐1,418 | Python | The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) ⭐26,847 | Shell | Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+
+### 🔒 安全 & 隐私 (11个)
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) ⭐16,951 | JavaScript | DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- [home-assistant/core](https://github.com/home-assistant/core) ⭐86,910 | Python | :house_with_garden: Open source home automation that puts local control and privacy first.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ⭐10,045 | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ⭐68,031 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [soxoj/maigret](https://github.com/soxoj/maigret) ⭐25,403 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) ⭐16,015 | TypeScript | A powerful obfuscator for JavaScript and Node.js
+- [evilcos/xssor2](https://github.com/evilcos/xssor2) ⭐2,206 | JavaScript | XSS'OR - Hack with JavaScript.
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) ⭐20,414 | JavaScript | Loads environment variables from .env for nodejs projects.
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) ⭐34,759 | JavaScript | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [douban/douban-client](https://github.com/douban/douban-client) ⭐747 | Python | Python client library for Douban APIs (OAuth 2.0)
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) ⭐13,786 | Go | A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
+
+### 🎬 多媒体 & 内容 (10个)
+- [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) ⭐1,778 | HTML | A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) ⭐33,540 | Python | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [VOICEVOX/voicevox](https://github.com/VOICEVOX/voicevox) ⭐3,110 | TypeScript | 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
+- [AimerLee/OnePlusCloudPictureDownloader](https://github.com/AimerLee/OnePlusCloudPictureDownloader) ⭐3 | Python | 本项目提供批量下载国内一加云服务的照片的功能，因为官方不提供批量下载，手机上也不支持批量保存本地，这就导致一旦将照片上传云端之后，再取回就变得异常困难。
+- [soimort/you-get](https://github.com/soimort/you-get) ⭐56,851 | Python | :arrow_double_down: Dumb downloader that scrapes the web
+- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) ⭐10,303 | JavaScript | The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+- [muan/avatar](https://github.com/muan/avatar) ⭐14 | HTML | Avatar framer.
+- [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) ⭐1,279 | Python | Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
+- [david-gpu/srez](https://github.com/david-gpu/srez) ⭐5,276 | Python | Image super-resolution through deep learning
+- [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) ⭐5,045 | Pug | Turn checkboxes and radio buttons in toggle switches.
+
+### 📱 移动端 (10个)
+- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) ⭐6,422 | C | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+- [ThanlonSmith/PyQt5-pdf-tutorial](https://github.com/ThanlonSmith/PyQt5-pdf-tutorial) ⭐30 | N/A | PyQt5快速开发与实战[pdf+源码]。PyQt5是Qt v5的一组完整的Python绑定。它被实现为超过35个扩展模块，并使Python在所有支持的平台（包括IOS和Android）上被用作C++的替代应用程序开发语言。PyQT5也可以嵌入在基于C++的应用程序中，以允许这些应用程序的用户配置或增强这些应用程序的功能。
+- [flutter/flutter](https://github.com/flutter/flutter) ⭐176,173 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [iina/iina](https://github.com/iina/iina) ⭐44,736 | Swift | The modern video player for macOS.
+- [axios/axios](https://github.com/axios/axios) ⭐109,025 | JavaScript | Promise based HTTP client for the browser and node.js
+- [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) ⭐7,201 | Objective-C | QMUI iOS——致力于提高项目 UI 开发效率的解决方案
+- [alibaba/macaca](https://github.com/alibaba/macaca) ⭐3,187 | N/A |  Automation solution for multi-platform. 多端自动化解决方案
+- [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) ⭐28,101 | N/A | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+- [michaelliao/awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp) ⭐2,249 | N/A | 小白的Python入门教程实战篇：网站+iOS App源码
+- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) ⭐21,197 | Markdown | 中文版 Apple 官方《Swift 编程语言》
+
+### 📊 数据 & 分析 (5个)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) ⭐14,481 | Rust | A tiling window manager for Windows 🍉
+- [satorumurmur/bibi](https://github.com/satorumurmur/bibi) ⭐909 | JavaScript | Bibi \| EPUB Reader on your website.
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) ⭐48,530 | JavaScript | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [nuysoft/Mock](https://github.com/nuysoft/Mock) ⭐19,626 | JavaScript | A simulation data generator
+- [keon/algorithms](https://github.com/keon/algorithms) ⭐25,441 | Python | Minimal examples of data structures and algorithms in Python
+
+### 🎮 游戏 & 图形 (4个)
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) ⭐13,660 | C++ | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+- [mohanson/gameboy](https://github.com/mohanson/gameboy) ⭐1,420 | Rust | Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
+- [miloyip/game-programmer](https://github.com/miloyip/game-programmer) ⭐18,591 | Python | A Study Path for Game Programmer
+- [turbo/js](https://github.com/turbo/js) ⭐2,651 | JavaScript | turbo.js - perform massive parallel computations in your browser with GPGPU.
+
+### ⛓️ 区块链 & Web3 (1个)
+- [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) ⭐18,971 | JavaScript | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
